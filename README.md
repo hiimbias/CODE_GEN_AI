@@ -69,7 +69,7 @@ Hệ thống sẽ yêu cầu bạn nhập truy vấn. Để thoát, nhập `q`.
 
 ### 🔍 Tìm hiểu API  
 ```sh
-Enter a prompt (q to quit): Cách sử dụng API tạo người dùng?
+Enter a prompt (q to quit): how to use the API to create new user?
 ```
 👉 AI sẽ phân tích tài liệu API và trả lời cách sử dụng API tương ứng.  
 
@@ -80,6 +80,4 @@ Enter a prompt (q to quit): read the content of test.py and write a python scrip
 👉 AI sẽ sinh ra đoạn mã gọi API để thêm một item mới và lưu vào thư mục `output`.  
 
 ---
-
-🚀 **Hãy thử ngay và khám phá sức mạnh của AI trong lập trình!**
 
