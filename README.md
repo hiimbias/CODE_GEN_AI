@@ -1,4 +1,4 @@
-# 🚀 AI ANGENT CODE GENERATOR
+# 🚀 AI AGENT CODE GENERATOR
 Dự án ứng dụng kỹ thuật Multi-LLM, RAG để phân tích ngữ cảnh, phân tích mã nguồn. Từ đó generate ra mã nguồn theo prompt như: unit test, request, mô tả mã nguồn.
 Mã nguồn được tạo ra sau đó được generate vào một file mới.
 
